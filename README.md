@@ -231,7 +231,7 @@ The codebase includes full Greeks attribution (vega, theta, gamma, delta), perfo
 |------|--------|------------|
 | Marco Eichenberg | Mathematics | VU University Amsterdam |
 | Derek Nigten | Econometrics & Data Science | VU University Amsterdam |
-| Alessandro Plett | Quantitative Finance & Risk Management | Univeristà Bocconi |
+| Alessandro Plett | Quantitative Finance & Risk Management | Università Bocconi |
 
 ---
 
